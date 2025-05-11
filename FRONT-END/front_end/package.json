@@ -1,7 +1,7 @@
 {
   "name": "front_end",
   "version": "0.1.0",
-  "homepage": "https://github.com/meeran91101.github.io/Student_Management_System",
+  "homepage": "https://meeran91101.github.io/Student_Management_System",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
